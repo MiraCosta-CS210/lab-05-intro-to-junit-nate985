@@ -30,5 +30,4 @@ public class SumNumbers {
             return 0;
         }
     }
-
 }

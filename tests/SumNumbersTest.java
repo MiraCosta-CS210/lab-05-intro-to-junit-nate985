@@ -17,6 +17,5 @@ public class SumNumbersTest {
         //EXPECTED OUTPUT: 0 (which represents "false" - meaning the sum of the two numbers is odd)
         int result2 = sumNumbers.sumIsEven(1,2);
         assertEquals(0, result2);
-
     }
 }

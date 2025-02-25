@@ -16,6 +16,5 @@ public class TipCalculatorTest {
         //EXPECTED OUTPUT: $22.54
         double result2 = tipCalculator.calculateTip(150.25, 15);
         assertEquals(22.54, result2);
-
     }
 }
